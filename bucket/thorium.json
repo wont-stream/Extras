@@ -1,5 +1,5 @@
 {
-    "version": "128.0.6613.186",
+    "version": "128.0.6613.189",
     "description": "Chromium fork for Linux, Windows, MacOS, Android, and Raspberry Pi named after radioactive element No. 90.",
     "homepage": "https://thorium.rocks/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Alex313031/Thorium-Win/releases/download/M128.0.6613.186/Thorium_AVX2_128.0.6613.186.zip",
-            "hash": "16924c3d16c37213767f7f7148af56c03088d931b962dce2e13bc975af12662f"
+            "url": "https://github.com/Alex313031/Thorium-Win/releases/download/M128.0.6613.189/Thorium_AVX2_128.0.6613.189.zip",
+            "hash": "ddce38700bd0c0794a883a600e10b0a6705b502fdc6fc3f1bcb946f56fcc126a"
         }
     },
     "bin": [
