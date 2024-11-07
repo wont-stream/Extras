@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Alex313031/Thorium-Win/releases/download/M128.0.6613.189/Thorium_AVX2_128.0.6613.189.zip",
+            "url": "https://github.com/Alex313031/Thorium-Win/releases/download/M128.0.6613.186/Thorium_AVX2_128.0.6613.186.zip",
             "hash": "16924c3d16c37213767f7f7148af56c03088d931b962dce2e13bc975af12662f"
         }
     },
