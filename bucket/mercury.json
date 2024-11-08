@@ -23,7 +23,7 @@
         "  Copy-Item -Path $Addition\\* -Destination $dir -Force -Recurse -ErrorAction SilentlyContinue",
         "}"
     ],
-    "pre_install": "Remove-Item \"$dir\\..\\pingsender.exe\"",
+    "pre_install": "Remove-Item \"$dir\\mercury\\pingsender.exe\"",
     "bin": "mercury.exe",
     "shortcuts": [
         [
