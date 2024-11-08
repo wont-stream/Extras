@@ -24,7 +24,7 @@
         "}"
     ],
     "pre_install": "Remove-Item \"$dir\\mercury\\pingsender.exe\"",
-    "bin": "$dir\\mercury\\mercury.exe",
+    "bin": "mercury.exe",
     "shortcuts": [
         [
             "mercury.exe",
